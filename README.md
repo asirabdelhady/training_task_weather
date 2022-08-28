@@ -1,13 +1,13 @@
 # weather
 
+
+
 packages used:
     get
     http
     intl
     lottie
     simple_shadow
-
-This was a team effort by Asir Abdelhady, ID:77920 and Saif Mohammed, ID:77690
 
 Asir Abdelhady: I created the Model classes that help receive the data from the api as well as 
 the fetch class that fetch the result from the api url.
@@ -36,15 +36,6 @@ to replace all the variables with all the data that came from the api like:
     temp
 
 
-## Getting Started
+This is what the app looks like:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Weather page](https://user-images.githubusercontent.com/104396012/187096739-15122cd0-dd68-40c9-bf90-4edfb00e1874.jpeg)
